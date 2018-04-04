@@ -9,3 +9,5 @@ In Binary Tree, Inorder successor of a node is the next node in Inorder traversa
 In the above diagram, inorder successor of 8 is 10, inorder successor of 10 is 12 and inorder successor of 14 is 20.
 
 Please add a successor.sln file to give your answer.
+
+To be continued...
